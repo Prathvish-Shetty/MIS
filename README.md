@@ -36,12 +36,12 @@ Lifeline is a comprehensive web-based blood bank management system designed to s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lifeline.git
+   git clone https://github.com/Prathvish-Shetty/MIS.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd lifeline
+   cd LifeLine(BloodBankManagementSystem)
    ```
 
 3. Run the application:
